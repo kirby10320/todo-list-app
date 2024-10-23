@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/YOUR-USERNAME/todo-list-app.git
+git clone https://github.com/kirby10320/todo-list-app.git
 cd todo-list-app
 Open the App:
 
